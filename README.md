@@ -56,6 +56,7 @@ As diferentes visões e painéis do dashboard permitem:
 ## Observações
 - Os dados utilizados podem ser fictícios ou anonimizados para fins de demonstração.
 - Para atualizar os dados, substitua as fontes conforme necessário dentro do Power BI.
+-Não contem arquivo pbix por conter informações sigilosas.
 
 ## Contato
 Em caso de dúvidas ou sugestões, entre em contato.
